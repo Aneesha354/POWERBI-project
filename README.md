@@ -12,7 +12,8 @@ Company growth trend
 Employee Filter (by starting letter)
 Performance vs. Salary
 India vs. New Zealand - quick scorecard
-Power BI Project: Data Analysis Dashboard
+
+
 
 **Project Description**
 
