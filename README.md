@@ -2,7 +2,7 @@
 Performed data analysis using POWERBI, where I learned how to interpret and analyse the business requirements, Through this project, I understood that dashboards are not just about being visually impressive - they play a key role in simplifying complex data and making it easier to understand.
 Data Analysis Themes:
 
-How many people are there in each department?
+How many people are there in each department?<br/>
 Gender distribution by department
 Age spread of our staff 
 Min / max / average salary in each department
