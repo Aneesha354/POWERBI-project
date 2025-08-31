@@ -25,3 +25,4 @@ Max Salary	MAX(Data[Salary])	Returns the highest salary in the dataset.
 Min Salary	MIN(Data[Salary])	Returns the lowest salary in the dataset.
 Head Count	COUNTROWS(Data)	Counts the number of employees/rows.
 Avg Salary	AVERAGE(Data[Salary])	Calculates the average salary.
+![image alt](https://github.com/Aneesha354/POWERBI-project/blob/33cf416b4a919e32a69e274872f2bf0a2023dccd/Screenshot%202025-08-31%20145104.png)
