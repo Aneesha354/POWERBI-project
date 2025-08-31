@@ -28,4 +28,4 @@ Avg Salary	AVERAGE(Data[Salary])	Calculates the average salary.
 ![image alt](https://github.com/Aneesha354/POWERBI-project/blob/33cf416b4a919e32a69e274872f2bf0a2023dccd/Screenshot%202025-08-31%20145104.png)
 
 #Dashboards overview
-<a href="https://github.com/Aneesha354/POWERBI-project/blob/main/project.pbix"></a>
+<a href="https://github.com/Aneesha354/POWERBI-project/blob/main/project.pbix"></a> Project_overview
