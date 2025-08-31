@@ -12,5 +12,15 @@ Company growth trend
 Employee Filter (by starting letter)
 Performance vs. Salary
 India vs. New Zealand - quick scorecard
+Power BI Project: Data Analysis Dashboard
 
-Developed interactive dashboards for various data analysis themes, utilizing measures and calculations in Power BI to enhance insights and support data-driven decision-making.
+**Project Description**
+
+The goal of this project was to analyze employee salary data and derive insights, The dashboards were created using Power BI, with DAX formulas for calculations.
+
+**DAX Measures Used**
+
+Max Salary	MAX(Data[Salary])	Returns the highest salary in the dataset.
+Min Salary	MIN(Data[Salary])	Returns the lowest salary in the dataset.
+Head Count	COUNTROWS(Data)	Counts the number of employees/rows.
+Avg Salary	AVERAGE(Data[Salary])	Calculates the average salary.
